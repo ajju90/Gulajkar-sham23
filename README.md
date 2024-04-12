@@ -9,7 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fdevops-engineer-salary-and-skills-required%2F&psig=AOvVaw3LHxCHVPm71tBGN4ahSBJH&ust=1713013057153000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiv54ndvIUDFQAAAAAdAAAAABAm"  />
+
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCoding-Meet&psig=AOvVaw3LHxCHVPm71tBGN4ahSBJH&ust=1713013057153000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiv54ndvIUDFQAAAAAdAAAAABA9"  />
+
+
 
 ###
 
@@ -42,6 +46,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
